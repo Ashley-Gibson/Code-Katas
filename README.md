@@ -1,2 +1,11 @@
-# Code-Katas
-Project to host all Code Katas I have attempted.
+# Code Katas #
+
+Hosts all of my attempts at Code Katas.
+
+# Technologies #
+
+* C#/.NET
+
+# Code Katas Attempted #
+
+* ...
